@@ -1,0 +1,19 @@
+{
+    "num_clients": 3,
+    "rounds": 2,
+    "local_epochs": 1,
+    "in_seq_len": 168,
+    "out_seq_len": 24,
+    "batch_size": 16,
+    "embed_dim": 32,
+    "hidden_channels": 32,
+    "num_layers": 3,
+    "lr": 0.001,
+    "gamma": 0.1,
+    "attack": "scaling",
+    "attack_strength": 0.1,
+    "attack_ratio": 1.0,
+    "attacked_nodes": "",
+    "attacked_clients": "2",
+    "seed": 42
+}

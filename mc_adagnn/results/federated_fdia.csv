@@ -1,0 +1,3 @@
+Round,Global RMSE,Global MAE,Global MSE,Global MAPE,Attack Strength,Number of Compromised Clients
+1,1.1201608,0.91186595,1.2547601,9.8195386e+08,0.1,1
+2,0.54933345,0.44171253,0.30176723,1.1609764e+09,0.1,1
